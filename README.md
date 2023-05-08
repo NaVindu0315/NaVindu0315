@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NaVindu LakShan</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navindu0315&label=Profile%20views&color=0e75b6&style=flat" alt="navindu0315" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1GzKz8F4CyJg8uNixF8M-fW9PlPvaAfPq/view?usp=share_link" alt="navindu0315" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
