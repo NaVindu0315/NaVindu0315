@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NaVindu LakShan</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-<p align="left"> <img src="[https://drive.google.com/file/d/1GzKz8F4CyJg8uNixF8M-fW9PlPvaAfPq/view?usp=share_link](https://firebasestorage.googleapis.com/v0/b/registerandlogin-e8f20.appspot.com/o/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=3579d268-ea2a-4c1a-9e09-028f3920347a)" alt="navindu0315" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
