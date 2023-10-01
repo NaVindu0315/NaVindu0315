@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navindu0315&label=Profile%20views&color=0e75b6&style=flat" alt="navindu0315" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **navindulakshan99@gmail.com**
 
