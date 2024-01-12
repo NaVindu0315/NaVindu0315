@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navindu0315&label=Profile%20views&color=0e75b6&style=flat" alt="navindu0315" /> </p>
-<p align="center">
+
 - 🌱 I’m currently learning **BlockChain**
 
 - 📫 How to reach me **navindulakshan99@gmail.com**
@@ -24,5 +24,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=NaVIndu0315&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NaVindu0315&theme=defualt&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaVIndu0315&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+
 
