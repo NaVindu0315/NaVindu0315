@@ -42,6 +42,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=NaVindu0315&theme=github-dark"/>
 
-[![committers.top badge](https://user-badge.committers.top/Sri_Lanka/NaVindu0315.svg)](https://user-badge.committers.top/Sri_Lanka/NaVindu0315)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/NaVindu0315.svg)](https://user-badge.committers.top/sri_lanka/NaVindu0315)
 
 
